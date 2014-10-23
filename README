@@ -1,0 +1,31 @@
+Stratus Kernel release 0.x
+
+These are the release notes for Stratus Version 0.
+
+WHAT IS STRATUS?
+
+Stratus is a computing kernel written by Nathan Thomsen for open distrobution.
+It aims for breaking free from some of the tainted and aging philosophys of *nix 
+and and escaping POSIX compliance. Derived from this abondoning of dying standards
+is the adoption of a modernized platform that includes an expected feature set.
+To accompany these demanded computation technologies is a new, more advanced
+kernel architechture, virtual memory manager, init system, filesystem, and network
+stack.
+
+Stratus is proudly distributed under the GNU General Public License. See LICENSE and
+COPYING for more information.
+
+ON WHAT HARDWARE DOES IT RUN?
+
+Stratus is developed and optimized for use on amd-x86_64 and i386 based computation
+devices. Stratus has planned development for the ARM, IBM s/390, PowerPC, PowerPC64,
+and Cell architechtures.
+
+Development for userspace Stratus is also a future goal.
+
+DOCUMENTATION
+
+Currently, there is no documentation on the Net for the Stratus Project. However, 
+inside the DOCUMENTATION/ subdirectory, there are extensive notes collectivley about
+each function and line by line descriptions of each file. If a comment is over four
+lines, it will be placed within the DOCUMENTATION/ subdirectory.
