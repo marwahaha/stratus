@@ -18,6 +18,6 @@ LC_COLLATE=C
 LC_NUMERIC=C
 export LC_COLLATE LC_NUMERIC
 
-@echo "You are making the Stratus kernel. WARNING: Making this kernel will
+@echo "WARNING: You are making the Stratus kernel. Making this kernel will
 @echo "overwrite any existing data on your harddrive. This can be"
 @echo "dangerous. READ THE MANUAL."
