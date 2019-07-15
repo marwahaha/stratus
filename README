@@ -7,7 +7,7 @@ WHAT IS STRATUS?
 Stratus is a computing kernel written by Nathan Thomsen for open 
 distrobution. It aims for breaking free from some of the tainted 
 and aging philosophys of *nix and and escaping POSIX compliance. 
-Derived from this abondoning of dying standards is the adoption of 
+Derived from this abandoning of dying standards is the adoption of 
 a modernized platform that includes an expected feature set. To 
 accompany these demanded computation technologies is a new, more 
 advanced kernel architechture, virtual memory manager, init 
